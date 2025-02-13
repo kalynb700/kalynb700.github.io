@@ -4,7 +4,7 @@
   var timer = null; // Think of a clock without gears and everything in the clock - null
   var interval = 2000; // Self explanatory
 
-  var audio = new Audio("resources/sounds/disco-groove-122074.mp3") 
+  var audio = new Audio("resources/sounds/heat.mp3") 
   // Defining resource
   // Storing object in value - audio is now essentially a tutorial book with a bunch of functions 
 
