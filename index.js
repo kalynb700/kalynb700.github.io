@@ -19,7 +19,7 @@
    * Adds event listeners to each button
    */
   function init() { // Talk about what functions are
-    audio.volume = 0.75; //Function from the audio object
+    audio.volume = 0.35; //Function from the audio object
     id("yes-btn").addEventListener("click", weParty);
     id("no-btn").addEventListener("mouseover", moveButton);
     id("no-btn").addEventListener("click", moveButton);
